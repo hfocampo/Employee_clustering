@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="./Images/kmeansclustering.PNG" width="600" alt="Texto alternativo si la imagen no carga">
+  <img src="/Images/kmeansclustering.PNG" width="600" alt="Texto alternativo si la imagen no carga">
 </p>
 
 
@@ -20,7 +20,7 @@ El objetivo principal de K-means es agrupar un conjunto de datos en K grupos o c
 
 
 <p align="center">
-  <img src="./Images/cluster_result.PNG" width="1000" alt="Texto alternativo si la imagen no carga">
+  <img src="../Images/cluster_result.PNG" width="1000" alt="Texto alternativo si la imagen no carga">
 </p>
 
 
