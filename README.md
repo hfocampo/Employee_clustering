@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="/Images/kmeansclustering.PNG" width="600" alt="Texto alternativo si la imagen no carga">
+  <img src="images/kmeansclustering.png" width="600" alt="Texto alternativo si la imagen no carga">
 </p>
 
 
@@ -20,7 +20,7 @@ El objetivo principal de K-means es agrupar un conjunto de datos en K grupos o c
 
 
 <p align="center">
-  <img src="../Images/cluster_result.PNG" width="1000" alt="Texto alternativo si la imagen no carga">
+  <img src="images/cluster_result.png" width="1000" alt="Texto alternativo si la imagen no carga">
 </p>
 
 
@@ -36,7 +36,7 @@ Para el proyecto que estamos trabajando, aplicamos el algoritmo K-means y la mé
 
 
 <p align="center">
-  <img src="./Images/salary_environment_satisfaction.PNG" width="1000" alt="Texto alternativo si la imagen no carga">
+  <img src="images/salary_environment_satisfaction.png" width="1000" alt="Texto alternativo si la imagen no carga">
 </p>
 
 
@@ -46,7 +46,7 @@ En la primera gráfica vemos que los empleados del cluster 4 fueron los que reci
 
 
 <p align="center">
-  <img src="./Images/training_age.PNG" width="1000" alt="Texto alternativo si la imagen no carga">
+  <img src="images/training_age.png" width="1000" alt="Texto alternativo si la imagen no carga">
 </p>
 
 
@@ -56,7 +56,7 @@ Por otro lado podemos observar que el grupo del cluster 4 son los que han recibi
 
 
 <p align="center">
-  <img src="./Images/education.PNG" width="1000" alt="Texto alternativo si la imagen no carga">
+  <img src="images/education.png" width="1000" alt="Texto alternativo si la imagen no carga">
 </p>
 
 
